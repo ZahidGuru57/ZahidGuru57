@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Zahid Ullah</h1>
 <h3 align="center">A passionate Web And WordPress developer from Pakistan</h3>
-<img align="right" alt="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif">
+<img align="right" width ="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="web image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidguru57&label=Profile%20views&color=0e75b6&style=flat" alt="zahidguru57" /> </p>
 
